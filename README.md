@@ -5,7 +5,7 @@
 ### Purpose
 The purpose of this project was to identify how different campaigns performed relative to their launch dates and funding goals. This was achieved by evaluating data of theater campaigns based on the month in which they were launched and the outcome- successful, failed, or canceled. Data was also analyzed to compare fundraising goals and campaigns outcomes.
 ## Analysis and Challenges
-
+[Kickstarter Challenge Spreadsheet](Kickstarter_Challenge.xlsx)
 ### Analysis of Outcomes Based on Launch Date
 Table 1: Theater Outcomes by Launch Date
 <br>
@@ -45,6 +45,12 @@ Figure 2: Campaign Outcomes based on Goals
 <br>
 The graph in Figure 2 supports Table 3, displaying campaign outcomes based on goals. Although a higher percentage of campaigns were successful with goals less than $1000, and failures appeared to increase in correlation with higher fundraising goals, there were more successful campaigns than failed at goals of $35000 to $39999 and $40000 to $44999, before declining as goals reached $45000. One hundred percent of campaigns failed at a goal of $45000 to $49999.
 ### Challenges and Difficulties Encountered
+Challenges faced when analyzing the data include:
+1)	Determining if any measures of central tendencies would be useful to describe the data
+- It was determined that this data is categorical. Therefore, there is not a central value because we cannot put categories in actual order. Due to it being categorical data, the mode was the most useful for this data set, since it describes the category with the most values, i.e. the most successful campaigns launched in May.
+2)	Nesting formulas in Excel
+- While nesting COUNTIFS, excluding any text would result in an error. For example, for “=COUNTIFS(Kickstarter!$D:$D,"<1000",Kickstarter!F:F,"successful",Kickstarter!P:P,"plays"),” leaving out the exclamation point after “Kickstarter” would result in an error message.
+- Another example is forgetting to put the greater than (>) symbol before 1000, which would result in the wrong data being formulated.
 
 ## Results
 
