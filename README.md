@@ -22,8 +22,28 @@ Table 2: Percentage of Outcomes by Month
 <br>
 Table 2 displays the percentage of the outcomes based on the total number of campaigns launched, and for launches that took place in May and June. Sixty-seven percent of campaigns launched in May were successful, 31% failed, and 2% were canceled. June was also a popular month for launching campaigns, with 153 total; 65% were successful, 32% failed, and 3% were canceled. The most cancellations happened for those campaigns launched in December. Successful campaigns accounted for 61% of the total campaigns launch during the year; 36% failed and 3% were canceled.
 <br>
+<br>
+Figure 1: Theater Outcomes Based on Launch Date
+<br>
+![image_name](Resources/Theater_Outcomes_vs_Launch.png)
+<br>
+<br>
+Figure 1 displays the outcomes of theater campaigns based on launch date. The graph shows that there were more successful campaigns in May than any other month. In December, successful and failed campaigns were almost equal. Launch date appears to have had no significant effect on cancellations.
 ### Analysis of Outcomes Based on Goals
-
+Table 3: Campaign Outcomes based on Fundraising Goals
+<br>
+![image_name](Resources/Outcomes_vs_Goals_Chart.png)
+<br>
+<br>
+Table 1 shows campaign outcomes based on their funding goals. Five hundred thirty-four total projects were launched with a goal between $1000 and $4999. Of those, 75% were successful and 24% failed. A total of 694 (67%) campaigns were successful, 349 failed (33%), and none were canceled. 
+<br>
+<br>
+Figure 2: Campaign Outcomes based on Goals
+<br>
+![image_name](Resources/Outcomes_vs_Goals.png)
+<br>
+<br>
+The graph in Figure 2 supports Table 3, displaying campaign outcomes based on goals. Although a higher percentage of campaigns were successful with goals less than $1000, and failures appeared to increase in correlation with higher fundraising goals, there were more successful campaigns than failed at goals of $35000 to $39999 and $40000 to $44999, before declining as goals reached $45000. One hundred percent of campaigns failed at a goal of $45000 to $49999.
 ### Challenges and Difficulties Encountered
 
 ## Results
