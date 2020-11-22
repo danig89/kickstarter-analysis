@@ -61,5 +61,6 @@ Challenges faced when analyzing the data include:
 - What can you conclude about the Outcomes based on Goals?
   - The lower the fundraising goal, the higher chance of a campaign being successful.
 - What are some limitations of this dataset?
-  -
+  - Campaign Outcomes by Launch Date data is limited, as this data only takes in accounts for theater campaigns. Other categories may display significantly different, such as more failures in May and June than successes.
 - What are some other possible tables and/or graphs that we could create?
+  - Clustered column charts and stacked bar graphs would have been useful to display how successful, failed, and canceled campaigns compared in each category, i.e. month and fundraising goals.
