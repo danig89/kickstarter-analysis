@@ -55,9 +55,11 @@ Challenges faced when analyzing the data include:
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  - It can be concluded that campaigns were more likely to be started during the months of May and June.
+  - Campaigns were more likely to be successful in May and June, which may be due to the high number of campaigns launched during that time. 
 
 - What can you conclude about the Outcomes based on Goals?
-
+  - The lower the fundraising goal, the higher chance of a campaign being successful.
 - What are some limitations of this dataset?
-
+  -
 - What are some other possible tables and/or graphs that we could create?
